@@ -1,5 +1,5 @@
 Kafka-node
-==========
+=========
 
 [![NPM](https://nodei.co/npm/kafka-node.png)](https://nodei.co/npm/kafka-node/)
 [![NPM](https://nodei.co/npm-dl/kafka-node.png?height=3)](https://nodei.co/npm/kafka-node/)
